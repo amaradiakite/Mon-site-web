@@ -1,0 +1,29 @@
+<!-- contact.html -->
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Contact</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Contactez-moi</h1>
+  </header>
+
+  <main>
+    <form>
+      <label for="nom">Nom :</label><br>
+      <input type="text" id="nom" name="nom"><br><br>
+
+      <label for="email">Email :</label><br>
+      <input type="email" id="email" name="email"><br><br>
+
+      <label for="message">Message :</label><br>
+      <textarea id="message" name="message"></textarea><br><br>
+
+      <button type="submit">Envoyer</button>
+    </form>
+  </main>
+</body>
+</html>
