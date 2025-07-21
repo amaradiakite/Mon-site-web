@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Mon site web</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Bienvenue sur mon site</h1>
+    <p>Je m'appelle Amara Diakité</p>
+  </header>
+
+  <!-- Menu de navigation -->
+  <nav>
+    <a href="index.html">Accueil</a>
+    <a href="CV.html">CV</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+
+  <main>
+    <p>Ceci est ma première page web hébergée sur GitHub Pages.</p>
+  </main>
+</body>
+</html>
